@@ -2,7 +2,7 @@
 
 *Authored By Leonid Donovan*
 
-Since the ancient times, spanning all the way back to 500-300 million years ago, the human brain has always prioritized social harmony over independent thinking. The act of fear mongering has developed an irrational cognitive bias called the negativity bias, which is the evolutionary tendency to focus on threats, negative experiences and emotions rather than positive ones.
+Since the ancient times, spanning all the way back to 500-300 million years ago, evolution has always prioritized social harmony over independent thinking. The act of fear mongering has developed an irrational cognitive bias called the negativity bias, which is the evolutionary tendency to focus on threats, negative experiences and emotions rather than positive ones.
 
 We can observe how these changes affect modern society, from avoiding predators and tribe ostracism to the influence of media propaganda across multiple generations as the neurological brain triggers social punishment mechanisms such as shame and anxiety to discourage straying from group identity. [^1]: https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2013.00050/full
 
